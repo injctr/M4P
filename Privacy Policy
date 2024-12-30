@@ -27,6 +27,16 @@ CHANGES TO THIS TERMS AND CONDITIONS
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
 These terms and conditions are effective as of November 25, 2024.
 
+About VinzzML Tools
+VinzzML Tools is a file downloader and extractor designed to manage large files like game resources or tools. To ensure full functionality, the app requires permission to manage all files on your device.
+
+Why We Need This Permission
+The app uses the "Manage All Files" permission to:
+• Download and store large files to user-defined locations on external storage.
+• Extract ZIP or compressed files into selected directories.
+• Organize and manage files stored on your device.
+Without this permission, the app will not be able to download, extract, or manage files effectively.
+
 ---
 
 CONTACT US
